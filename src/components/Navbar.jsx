@@ -3,7 +3,7 @@ import './navbar.css';
 
 const Navbar = () => {
 
-    const url = "http://localhost:3000/"
+    const url = "https://navbar-coderhouse.vercel.app/"
   return (
     <div className="contenedor-navbar">
       <div className="logo">
